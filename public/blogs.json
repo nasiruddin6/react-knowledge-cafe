@@ -1,0 +1,53 @@
+[
+    {
+      "id": "001",
+      "cover": "https://images.unsplash.com/photo-1501594907352-04cda38ebc29",
+      "title": "The Lost Chronicles",
+      "author": "Ava Martinez",
+      "author_img": "https://images.pexels.com/photos/415829/pexels-photo-415829.jpeg",
+      "posted_date": "2024-05-01",
+      "reading_time": 8,
+      "hashtags": ["#Fantasy", "#Adventure", "#Mystery"]
+    },
+    {
+      "id": "002",
+      "cover": "https://images.unsplash.com/photo-1501594907352-04cda38ebc29",
+      "title": "Whispers of the Night",
+      "author": "Liam Chen",
+      "author_img": "https://images.pexels.com/photos/415829/pexels-photo-415829.jpeg",
+      "posted_date": "2024-06-15",
+      "reading_time": 12,
+      "hashtags": ["#Thriller", "#Suspense", "#Horror"]
+    },
+    {
+      "id": "003",
+      "cover": "https://images.unsplash.com/photo-1501594907352-04cda38ebc29",
+      "title": "Echoes in the Wind",
+      "author": "Emma Johansson",
+      "author_img": "https://images.pexels.com/photos/415829/pexels-photo-415829.jpeg",
+      "posted_date": "2024-07-20",
+      "reading_time": 5,
+      "hashtags": ["#Romance", "#Drama", "#Contemporary"]
+    },
+    {
+      "id": "004",
+      "cover": "https://images.unsplash.com/photo-1501594907352-04cda38ebc29",
+      "title": "Beyond the Horizon",
+      "author": "Noah Patel",
+      "author_img": "https://images.pexels.com/photos/415829/pexels-photo-415829.jpeg",
+      "posted_date": "2024-08-05",
+      "reading_time": 10,
+      "hashtags": ["#ScienceFiction", "#Space", "#Exploration"]
+    },
+    {
+      "id": "005",
+      "cover": "https://images.unsplash.com/photo-1501594907352-04cda38ebc29",
+      "title": "The Silent Watcher",
+      "author": "Isabella Wright",
+      "author_img": "https://images.pexels.com/photos/415829/pexels-photo-415829.jpeg",
+      "posted_date": "2024-09-10",
+      "reading_time": 6,
+      "hashtags": ["#Mystery", "#Crime", "#Detective"]
+    }
+  ]
+  
